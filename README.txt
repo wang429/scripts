@@ -1,1 +1,0 @@
-Scripts in various languages that I felt have some value
